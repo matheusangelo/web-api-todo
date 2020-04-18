@@ -1,0 +1,12 @@
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.Infra.deps.json
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.Infra.dll
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.Infra.pdb
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.dll
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.pdb
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.csprojAssemblyReference.cache
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.AssemblyInfo.cs
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.csproj.CopyComplete
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.dll
+C:\Pessoal\Dev\.NET\Todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.pdb
